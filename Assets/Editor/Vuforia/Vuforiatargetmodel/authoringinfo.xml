@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.4.1">
+        <ModelTarget name="Vuforiatargetmodel" targetId="ba1f0ea41d2346c898b73986660aaf12" version="14.0" toolVersion="v7.4.1" bbox="-0.924575 0.0544817 -1.0932 0.000321209 0.10035 -0.00100315" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="Vuforiatargetmodel" assemblyId="741a0fac839445d3833c71e6f8e29c7c">
+        <Part name="Vuforiatargetmodel" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
